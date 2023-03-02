@@ -26,7 +26,7 @@ The analysis revealed the following insights:
 - The city with the most orders was New York City, with a total of 20,000 orders.
 - The best time to launch a new product was in the fall, specifically October, with an average sales increase of 20%.
 - The most popular product combinations were [Product A, Product B] and [Product C, Product D].
-<img src="img/A.png" alt="image1" width="200" height="200">
+<img src="img/B.png" alt="image1" width="200" height="200">
 <img src="image2.jpg" alt="image2" width="200" height="200">
 <img src="image3.jpg" alt="image3" width="200" height="200">
 <img src="image4.jpg" alt="image4" width="200" height="200">
