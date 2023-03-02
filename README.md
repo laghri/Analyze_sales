@@ -5,6 +5,7 @@
 This project is an analysis of sales data for a company, aimed at answering common questions about the business. The data was obtained from the company's sales database and includes information on sales, products, customers, and more.
 
 ## Questions Addressed
+![Alt text](img/A.png "Optional title")
 
 The following questions were addressed using the sales data:
 
